@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ResumeLxz</string>
+    <string name="title">个人简历</string>
+    <!--工作经历-->
+    <string name="workerHistory">2016/7--至今：上海上业信息科技股份有限公司  Android工程师\n<font color='#000000'>文化九江云     APP</font>	负责整个APP的设计、开发与维护\n项目介绍：	该APP是一款聚焦九江市文化领域，提供公共文化服务的互联网平台。集活动报名，场地预约，文艺培训，空间展示，志愿风采，地域特色于一体，为用户提供便捷的城市生活服务。
+\n<font color='#000000'>机构验票       APP</font>		负责整个APP的设计、开发与维护
+	\n项目介绍：	主要功能有扫码验票，查找指定用户验票。与上面APP的报名系统对应。</string>
+    <!--教育经历-->
+    <string name="edu">2014/9 -- 2017/7 	江西科技师范大学	软件技术	本科</string>
+    <!--专业技能-->
+    <string name="skill">1. 扎实的java基础和良好的编程习惯。\n
+2. 熟练Android UI的常用布局和各种主要组件,以及UI控件的自定义开发。 \n
+3. 熟练使用SQLite、SharedPreference、File等存储技术。\n
+4. 熟练使用xml、Json等解析技术。\n
+5. 熟练使用ButterKnife、Picasso、okHttp、noHttp等第三方开源框架。\n
+6. 熟练使用百度地图、极光推送，ShareSDK、Mob、阿里热修复等第三方SDK。\n
+7. 熟悉Andorid消息机制，线程通信机制（Handler, runOnUiThread，广播等）。 \n
+8. 熟悉mvc、mvp架构模式。\n
+10.熟悉android基本的性能优化(布局优化，内存优化等)。\n
+11.熟悉 view的绘制原理，事件分发机制。\n
+12.熟悉git的基本使用。\n
+        13.了解js,kotling,rn。
+</string>
+    <!--其他信息-->
+    <string name="other">在校代码经验：\n	1. web相关，了解常见的web前后端技术：
+（1）使用PS设计的静态网页，获2015年大学生创新技能比赛省级一等奖。\n
+（2）开发了个简易的学生管理系统，前端采用jsp,数据库采用MySQL。\n
+2. APP相关：\n独立开发了个简单的电商APP（全栈）。主要涉及到基本的UI、四大组件的使用以及listview的使用与优化。\n
+获奖经历：	2015年大学生职业技能比赛省级一等奖，多次奖学金，优秀学生干部，三好学生。</string>
+
+</resources>
